@@ -9,6 +9,8 @@ My plan is to become a video game developer, but who knows? Plans can change.
 
 📫 rootcellar9877@gmail.com
 
+
+
 ### Projects
 ---
 
@@ -17,6 +19,9 @@ A game can be made as fast as a day, or could take longer to make something bigg
 
 HungerPixels is using a slightly older (and modified) version of the PixelEngine to make a multiplayer game.
 That game shows that the engine does not handle multiplayer well yet, but will help me fix that.
+
+BattlePixels is the original game I made to test out drawing pixels on a screen in Java, and the basic parts were extracted to start the PixelEngine.
+I do want to work on this game more and improve it in the future.
 
 <!--
 **RootCellar/RootCellar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
