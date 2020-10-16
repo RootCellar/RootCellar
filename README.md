@@ -9,7 +9,7 @@ My plan is to become a video game developer, but who knows? Plans can change.
 
 📫 rootcellar9877@gmail.com
 
-#### Projects
+### Projects
 ---
 
 The PixelEngine repo is my biggest project, it's a small game engine used to make arcade style games in Java.
