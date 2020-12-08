@@ -5,7 +5,7 @@ Going for a Bachelor's Degree in Computer Science at the University of Alaska Fa
 
 My plan is to become a video game developer, but who knows? Plans can change.
 
-📫 dkmarvel@alaska.edu (probably easier to catch me here)
+📫 dkmarvel@alaska.edu
 
 📫 rootcellar9877@gmail.com
 
@@ -13,6 +13,10 @@ My plan is to become a video game developer, but who knows? Plans can change.
 
 ### Projects
 ---
+
+VirtualComputer is a new project of mine where I am hoping to emulate a computer. In the end, I want users to be able to write code similar to assembly, and
+have it assembled to be executed on the virtual computer. I am making this partially because I'm interested in how computers work and this can help with
+my understanding, but it will also result in my understanding of assembly better, and it might make for some interesting assembly programming for other people as well.
 
 The PixelEngine repo is my biggest project, it's a small game engine used to make arcade style games in Java.
 A game can be made as fast as a day, or could take longer to make something bigger, or even multiplayer.
