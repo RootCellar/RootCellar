@@ -16,7 +16,7 @@ Known languages listed by comfort/skill/experience:
 
 - Java: Learned 2016-2017, most comfortable with this language
 
-- C++: Learning 2020-2021, want to get very good at
+- C++: Learning 2020-2021, want to get very good at, not "comfortable" with yet
 
 - bash: may not technically be a "programming language", but do use on a regular basis
 
