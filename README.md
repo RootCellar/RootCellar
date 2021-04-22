@@ -16,7 +16,7 @@ Known languages listed by comfort/skill/experience:
 
 - Java: Learned 2016-2017, most comfortable with this language
 
-- C++: Learning 2020-2021, want to get very good at, not "comfortable" with yet
+- C++: Learned 2020-2021
 
 - bash: may not technically be a "programming language", but do use on a regular basis
 
@@ -28,6 +28,9 @@ Known languages listed by comfort/skill/experience:
 
 ### Projects
 ---
+
+- Apr 2021: CS202GroupProject is a project for class where we made a small game with graphics. This is the first real project I've worked on in C++,
+and I have become more comfortable building larger things with this language because of this.
 
 - Dec 2020: VirtualComputer is a new project of mine where I am hoping to emulate a computer. In the end, I want users to be able to write code similar to assembly, and
 have it assembled to be executed on the virtual computer. I am making this partially because I'm interested in how computers work and this can help with
