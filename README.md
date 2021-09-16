@@ -14,17 +14,19 @@ My plan is to become a video game developer (or do as a hobby/side job while doi
 
 Known languages listed by comfort/skill/experience:
 
-- Java: Learned 2016-2017, most comfortable with this language
+- Java: Learned 2016-2017 in high school, most comfortable with this language
 
-- C++: Learned 2020-2021
+- C++: Learned 2020-2021 in CS201 and CS202, expanded a bit Fall 2021 in CS311
 
 - bash: may not technically be a "programming language", but do use on a regular basis
 
-- Lua: used a little bit for programming in the ComputerCraft mod in Minecraft, and doing some Factorio server scripting. Only have basics.
+- Lua: used a little bit for programming in the ComputerCraft mod for Minecraft, and doing some Factorio server scripting. Only have basics.
 
-- C: Only know some basic syntax, by way of knowing what C++ has that C doesn't. Haven't really used it though.
+- C: Know the syntax of the language and differences between it and C++, but have not used it much.
 
 - Python: only know a couple things, want to learn this.
+
+- x86_64 Assembly: Learning in CS301 Fall 2021
 
 ### Projects
 ---
