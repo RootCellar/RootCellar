@@ -24,7 +24,7 @@ Known languages listed by comfort/skill/experience:
 
 - C: Know the syntax of the language and differences between it and C++, but have not used it much.
 
-- Python: only know a couple things, want to learn this.
+- Python: Self Learning Fall 2021
 
 - x86_64 Assembly: Learning in CS301 Fall 2021
 
