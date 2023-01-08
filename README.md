@@ -24,7 +24,7 @@ Using Linux full-time for school, work, and gaming.
 ### Linux Skills/Experience
 ---
 
-- Ubuntu, Fedora, Debian, Linux Mint
+- Ubuntu, Fedora (Workstation & Silverblue), Debian, Linux Mint
 
 - Docker (Dockerfiles, Docker-Compose, Container Creation)
 - Distrobox
