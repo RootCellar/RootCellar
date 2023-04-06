@@ -3,9 +3,11 @@
 
 Going for a Bachelor's Degree in Computer Science at the University of Alaska Fairbanks.
 
-Interested in backend development.
+Working in a programming internship at GVEA (August 2020 - Present)
 
-Using Linux full-time for school, work, and gaming.
+Interested in backend development and server administration.
+
+Using Linux full-time.
 
 📫 dkmarvel@alaska.edu
 
@@ -24,11 +26,12 @@ Using Linux full-time for school, work, and gaming.
 ### Linux Skills/Experience
 ---
 
-- Ubuntu, Fedora (Workstation & Silverblue), Debian, Linux Mint
-
-- Docker (Dockerfiles, Docker-Compose, Container Creation)
+- Cloud Computing: Digital Ocean, Vultr, Hetzner, Google Cloud
+- Operating Systems: Ubuntu, Fedora (Workstation & Silverblue), Debian, Linux Mint
+- Docker (Dockerfiles, Docker-Compose, Container Management)
 - Distrobox
-- QEMU
+- Virtual Machines
+- Command-line tools
 
 
 <!--
