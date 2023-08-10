@@ -1,7 +1,7 @@
 ### RootCellar
 ---
 
-Going for a Bachelor's Degree in Computer Science at the University of Alaska Fairbanks.
+Going for a Bachelor's Degree in Computer Science with a Minor in Mathematics at the University of Alaska Fairbanks.
 
 Working in a programming internship at GVEA (August 2020 - Present)
 
@@ -21,17 +21,16 @@ Using Linux full-time.
 - C
 - Python
 - Lua
-- x86 Assembly
 
 ### Linux Skills/Experience
 ---
 
 - Cloud Computing: Digital Ocean, Vultr, Hetzner, Google Cloud
-- Operating Systems: Ubuntu, Fedora (Workstation & Silverblue), Debian, Linux Mint
+- Operating Systems: Ubuntu, Fedora Workstation, Debian, Linux Mint
 - Docker (Dockerfiles, Docker-Compose, Container Management)
 - Distrobox
 - Virtual Machines
-- Command-line tools
+- Various CLI tools
 
 
 <!--
