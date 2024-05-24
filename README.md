@@ -7,7 +7,7 @@ Working in a programming internship at GVEA (August 2020 - Present)
 
 Interested in backend development and server administration.
 
-Using Linux full-time.
+Using Linux as a daily driver - School, Work, and Hobbies such as programming and playing video games.
 
 📫 dkmarvel@alaska.edu
 
@@ -17,20 +17,29 @@ Using Linux full-time.
 ---
 
 - Java
-- C++
 - C
+- CUDA
 - Python
-- Lua
+- C++
 
-### Linux Skills/Experience
+### Skills/Experience
 ---
 
-- Cloud Computing: Digital Ocean, Vultr, Hetzner, Google Cloud
-- Operating Systems: Ubuntu, Fedora Workstation, Debian, Linux Mint
-- Docker (Dockerfiles, Docker-Compose, Container Management)
+- Java Frameworks: Spring, Thymeleaf, Cucumber
+- IDEs: Intellij, Pycharm
+
+- Cloud Computing: Hetzner, Digital Ocean, Vultr, Google Cloud
+
+- Linux Operating Systems: Fedora Workstation, Ubuntu, Linux Mint, Debian
+- BSD Operating Systems: FreeBSD, OpenBSD
+- Windows: 7, 8, 10
+
+- Desktop Environments: Xfce, LXDE, GNOME, KDE Plasma, MATE
+
+- Docker (Dockerfile, Docker-Compose, Container Management)
 - Distrobox
-- Virtual Machines
-- Various CLI tools
+- Virtual Machines (QEMU CLI, virt-manager)
+- Various CLI tools (ssh, rsync, screen, package managers, etc.)
 
 
 <!--
