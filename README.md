@@ -26,7 +26,7 @@ Using Linux as a daily driver - School, Work, and Hobbies such as programming an
 ---
 
 - Java Frameworks: Spring, Thymeleaf, Cucumber
-- IDEs: Intellij, Pycharm
+- IDEs: CLion, Intellij, Pycharm
 
 - Cloud Computing: Hetzner, Digital Ocean, Vultr, Google Cloud
 
